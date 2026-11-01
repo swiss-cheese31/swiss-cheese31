@@ -1,171 +1,162 @@
 <div align="center">
 
-# 🚀 Hello there! I'm Swagat Kumar Sarangi
+# Hello there! 👋 I'm Swagat Kumar Sarangi
 
-### *Mechanical Engineer • MEMS & Sensors • Micro-fabrication • Multiphysics Simulation*
+### MEMS & Sensor Engineer · Multiphysics Simulation · Aerospace Enthusiast
 
-*"A long time ago in a cleanroom far, far away... I started bonding wafers at micron-level alignment."* ✨
-
-![Location](https://img.shields.io/badge/Bengaluru-India-orange?style=for-the-badge)
-![Role](https://img.shields.io/badge/Project%20Associate-CMTI%20(STDC)-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge)
+*A long time ago, in a cleanroom far, far away… I started bonding wafers.* 🌌
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swagat-kumar-sarangi-1a5745148/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swagat.k31@gmail.com)
+[![Email](https://img.shields.io/badge/Email-swagat.k31@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swagat.k31@gmail.com)
 
 </div>
 
 ---
 
-## 🌌 The Force Is Strong With This One (About Me)
+## 🛰️ The Briefing (a.k.a. About Me)
 
-I'm a Mechanical Engineering graduate (Ramaiah Institute of Technology, 2024, GPA 8.26) working at the **Sensor Technology Development Centre, CMTI** as a Project Associate. My day job lives where semiconductors, sensors, and simulation meet: wafer bonding, DRIE etching, thermal and structural modeling, and device characterization.
+I'm a Mechanical Engineer (B.E., Ramaiah Institute of Technology, GPA 8.26) working as a **Project Associate at the Sensor Technology Development Centre, CMTI**, Bengaluru. My days are split between the cleanroom (bonding, etching, embossing, leak testing) and the simulation desk (ANSYS, FEA, multiphysics). I got my start in aerospace through HAL internships, a student CubeSat team and a CANSAT competition.
 
-- 🔬 Currently working on **MEMS, microbolometers/IRFPAs, perovskite photovoltaics, and rocket-motor sensors**
-- 🛰️ Former Structures & Thermal Subsystem Head of a student 3U CubeSat team
-- 🚁 Aerospace-curious: interned at **HAL** (Engine Division and RWRDC)
-- 📄 Co-authored a paper on space debris removal, presented at **IAC 2022, Paris**
-
-> 🧠 **Fun fact:** My career looks like a Venn diagram of *Star Wars* (space), *LOTR* (long quests), and *TBBT* (physics nerdery), with a *B99* work ethic and *Friends*-level team spirit.
+- 🔬 Currently working on: **MEMS sensors, microbolometers/IRFPAs, perovskite photovoltaics, wafer-level packaging**
+- 🌱 Always learning: **advanced packaging, reliability simulation, sensor design**
+- 🤝 Open to: collaborations in **MEMS, sensors, semiconductor packaging, aerospace structures & thermal**
 
 ---
 
-## 🗡️ The Fellowship Quest Log (Experience)
+## ⚔️ Choose Your Universe
 
-### 🧙 Project Associate, Sensor Technology Development Centre @ CMTI
-*Feb 2025 – Present* — *"The Quest to Make the Ring (of Silicon) Hermetic"*
+<details open>
+<summary><b>🌌 STAR WARS — The Skills (Training the Force)</b></summary>
 
-| Quest | What I did |
-|---|---|
-| 🔗 **The Bonding of the Wafers** | Worked on the **SET FC150 bonder** for flip-chip and wafer bonding, with micron-level alignment for copper pillar, indium bump, and similar packaging architectures |
-| 🧊 **Glass–Silicon–Glass** | Performed G-Si-G anodic and fusion bonding, characterized thermo-mechanical behavior, and used **FEA** to predict residual stresses |
-| ⛏️ **Delving into the Deep (DRIE)** | Fabricated high-aspect-ratio cavities and **TSVs** on the **Samco RIE 800iPB**, tuning Bosch process parameters for vertical sidewalls and minimal scalloping |
-| 🔥 **Forging in Hot Embossing** | Thermocompression of PMMA and PVA on **EVG 501**, optimizing heat/pressure cycles for precise micro-patterning |
-| 🎈 **The Helium Hunt** | Hermeticity and leak testing of TO packages and multi-stack bonded samples with a **Mass Spectrometer Leak Detector** |
+<br>
 
-### 🌠 Key Technical Missions
+| Rank | Skill | Midi-chlorians |
+|------|-------|----------------|
+| 🟦 **Jedi Master** | Multiphysics & FEA simulation (thermal, structural, electrical) | ANSYS Workbench, Fluent, ICEM |
+| 🟩 **Jedi Knight** | CAD & structural design | SolidWorks, Fusion 360, CATIA v5 |
+| 🟩 **Jedi Knight** | Microfabrication & wafer-level processing | DRIE, bonding, hot embossing |
+| 🟨 **Padawan → Knight** | Programming & analysis | C, C++, MATLAB |
+| 🟨 **Padawan → Knight** | Rocketry & flight sims | OpenRocket |
 
-<details>
-<summary><b>🛸 Mission 1: Microbolometer & IRFPA Multiphysics Design</b> <i>("Thermal Exhaust Port: Not a Flaw Here")</i></summary>
+> *Do or do not.* That's also my approach to getting a vertical DRIE sidewall.
 
-- Designed structural layout of microbolometer pixels; ran thermal-mechanical and electrical characterization
-- Simulated thermal stress, temperature distribution, voltage output, and detectivity using **ANSYS Fluent, Workbench, and ICEM**
-- Material study to select thin-film and substrate materials
-- Simulated thermal profiles showed **~15% higher maximum operating temperatures** than baseline published studies
-- Scaled single-pixel designs into a **full IRFPA array** for heat distribution analysis
 </details>
 
-<details>
-<summary><b>☀️ Mission 2: Perovskite Photovoltaics with Back Nano Contacts</b> <i>(DST-funded, with IISc Bengaluru)</i></summary>
+<details open>
+<summary><b>💍 LORD OF THE RINGS — The Fellowship (Teams & Collaborations)</b></summary>
 
-- Optimization of the HTL, ETL, dielectric layer, and back nano-contacts
-- Developed a **novel bar-grate structure** for back nano-contacts to improve charge collection
-- Validated performance using **4-probe electrical characterization and SEM imaging**
+<br>
+
+One does not simply build a satellite alone. Here are my fellowships:
+
+| Fellowship | Role | Quest |
+|-----------|------|-------|
+| 🛰️ **STARDUST Satellite Team** | Subsystem Head, Structures & Thermal (2022–2023) | Designed the structure and thermal system for a student **3U CubeSat** |
+| 🧪 **DST-funded project with IISc Bengaluru** | Researcher | Next-gen **perovskite photovoltaics** with a back nano-contacts architecture |
+| 🏛️ **CMTI Sensor Technology Development Centre** | Project Associate | The long road through MEMS, packaging and sensors |
+| 🚀 **CANSAT Team** | Structural designer | National-level competition hosted by ISRO, ASI, NSIL and InSPACE |
+
+**The Forge of Mount Doom** (my cleanroom toolkit), where wafers are bonded and cavities are carved:
+
+- 🔗 **SET FC150** flip-chip and wafer bonder, with micron-level alignment (Cu pillar, indium bump)
+- 🔥 **Anodic & fusion bonding** of Glass-Silicon-Glass stacks, with FEA predictions of residual stress
+- ⛏️ **Samco RIE 800iPB**, using Bosch-process DRIE for high-aspect-ratio cavities and TSVs
+- 🧱 **EVG 501** hot embossing of PMMA and PVA
+- 💨 **Helium leak detection (MSLD)** for hermeticity testing of TO packages and bonded stacks
+
 </details>
 
-<details>
-<summary><b>🚀 Mission 3: Dual Bridge Stress & Temperature Sensor (DBST)</b> <i>(Solid rocket motor propulsion)</i></summary>
+<details open>
+<summary><b>✈️ TOP GUN — Danger Zone (Aerospace Flight Log)</b></summary>
 
-- Designed the strain gauge and ran multiphysics simulation for validation
-- Modeled the sensor mount over solid propellant and predicted **Von-Mises stress and deformation** under real-life loads
+<br>
+
+**Callsign:** `Wafer-Wing` · **Squadron:** Aerospace & MEMS · **Mission status:** 🟢 Active
+
+| Sortie | Unit | Mission Brief |
+|--------|------|---------------|
+| 🛩️ **Jun–Jul 2023** | HAL, Engine Division | Studied the repair and overhaul of the **ADOUR 871** military aircraft engine; learned non-destructive crack detection |
+| 🚁 **Aug–Sep 2022** | HAL, RWRDC | Analysed the LUH, ALH and LCH helicopters; worked on a **cowl protection system** at the engine intake to reduce FOD |
+| 🪽 **Final Year Project** | College | **Morphing wings**, with an **8.2% max drag reduction** in simulation (NACA 2412 & 23112). Won the **Best Project Award** |
+| 🌍 **IAC 2022, Paris** | Conference | Co-authored a paper on a **de-orbiting technique for space debris removal** |
+
+> 🎯 The need for speed, and for tight alignment tolerances.
+
 </details>
 
-<details>
-<summary><b>🌡️ Mission 4: Pt100 Resistance Temperature Detector</b></summary>
+<details open>
+<summary><b>🕵️ BROOKLYN NINE-NINE — Case Files (Featured Projects)</b></summary>
 
-- Designed a Pt100 RTD and validated its electrical response in ANSYS
-- Fabricated it and characterized it on a 4-probe station (measured error: 28%, so there's a learning loop to close 😄)
+<br>
+
+**Precinct:** CMTI Nine-Nine · **Detective:** S. K. Sarangi · **Case-solving mood:** Cool. Cool, cool, cool.
+
+| Case # | Case File | Evidence & Findings |
+|--------|-----------|---------------------|
+| 🗂️ **Case 001** | **Microbolometer & IRFPA Multiphysics Design** | Designed pixel layouts and simulated thermal stress, temperature distribution, voltage output and detectivity (ANSYS Fluent, Workbench, ICEM). Simulated profiles showed **15% higher max operating temperature** than baseline published studies. Scaled a single pixel up to a full IRFPA array |
+| 🗂️ **Case 002** | **Perovskite PV with Back Nano Contacts** (DST × IISc) | Optimised the HTL, ETL and dielectric layers and developed a **novel bar-grate** back nano-contact structure for better charge collection. Validated with 4-probe measurements and SEM |
+| 🗂️ **Case 003** | **Dual Bridge Stress & Temperature Sensor (DBST)** | Strain gauge design plus multiphysics simulation for a **solid rocket motor** propulsion system (Von Mises stress and deformation under real loads) |
+| 🗂️ **Case 004** | **Pt100 RTD** | Designed, simulated, fabricated and electrically characterised an RTD on a 4-probe station |
+| 🗂️ **Case 005** | **Morphing Wing** | Fluent CFD, a custom motor-actuation mechanism and a working model with a 3D printed PLA skeleton and flexible skin |
+| 🗂️ **Case 006** | **CANSAT** | Honeycomb-inspired structure, SLS printed in Nylon PA 12 |
+
 </details>
 
-### ✈️ Earlier Adventures (Interning at HAL)
-- **HAL Engine Division** (Jun–Jul 2023): Studied ADOUR 871 engine repair and overhaul; learned non-destructive crack detection for engine components
-- **HAL RWRDC** (Aug–Sep 2022): Analyzed LUH, ALH, and LCH helicopters; worked on a cowl protection system ahead of the engine intake to mitigate FOD
+<details open>
+<summary><b>🧠 THE BIG BANG THEORY — Fun Facts (Sheldon-approved)</b></summary>
 
-### 🛰️ Subsystem Head, Structures & Thermal @ STARDUST Satellite Team
-*Feb 2022 – Nov 2023* — Led the structures and thermal division and developed the structure and thermal system for a student **3U CubeSat**. *(Leading a squad without a Millennium Falcon.)*
+<br>
 
----
+| Fact | Detail |
+|------|--------|
+| 🎓 **Education** | B.E. Mechanical Engineering, Ramaiah Institute of Technology (2020–2024) |
+| 🏅 **Scholarships** | Prime Minister Scholarship Scheme (PMSS) and Indian Air Force Benevolent Association (IAFBA) |
+| 📚 **NPTEL certifications** | Steam & Gas Power Plant, Theoretical & Experimental Aerodynamics, Aircraft Propulsion |
+| 🏭 **Virtual experience** | General Electric Explore Engineering program |
+| 🛠️ **Soft skills** | Leadership, public speaking, teamwork, communication, critical thinking |
+| 🧪 **Hypothesis** | Thermal expansion mismatch is the villain of every bonding story |
 
-## 🕵️ Case Files (Projects), Brooklyn Nine-Nine Style
+**Bazinga!** 🎉 If you made it this far, you are officially cooler than my residual stress plots.
 
-> *Detective's notes: all cases closed. Cool cool cool cool cool.*
-
-### 📁 Case #1: The Morphing Wing Heist
-**Optimization & Aerodynamic Performance Analysis of Morphing Wings**
-- Numerical analysis in **ANSYS Fluent** of morphing vs. conventional wings (NACA 2412 and NACA 23112) across angles of attack
-- Designed a motor actuation mechanism and built a **functional model** with a 3D-printed PLA skeleton and a flexible outer membrane
-- 🎯 **Result: up to 8.2% drag reduction**
-- 🏆 Won **Best Project Award of the Year**
-
-### 📁 Case #2: Operation CANSAT
-- Competed in the **national-level CANSAT competition** (ISRO, ASI, NSIL, InSPACE) in Ahmedabad
-- Designed a **honeycomb-inspired** structure, **SLS-printed in Nylon PA 12** for superior strength
+</details>
 
 ---
 
-## 🛋️ The One With the Achievements (Friends)
+## 🧰 Tech Stack
 
-- 🏆 **The One Where I Won Best Project of the Year** (Morphing Wing project)
-- 📝 **The One Where I Presented in Paris**: co-authored *"A Novel Degeneration and De-orbiting Technique for Space Debris Removal"*, IAC 2022
-- 🎓 **The One With the Scholarships**: Prime Minister Scholarship Scheme (PMSS) and Indian Air Force Benevolent Association (IAFBA) Scholarship
-- ☕ **The One Where the Lab Is My Central Perk**
-
----
-
-## 🧪 The Big Bang Lab (Technical Skills)
-
-**🧰 Software & Tools**
-
-![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-red?style=flat-square)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-CAD-orange?style=flat-square)
-![CATIA](https://img.shields.io/badge/CATIA%20V5-CAD-blue?style=flat-square)
-![ANSYS](https://img.shields.io/badge/ANSYS-Workbench%20%7C%20Fluent%20%7C%20ICEM-ffb71b?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-Numerical-e16737?style=flat-square&logo=mathworks&logoColor=white)
-![OpenRocket](https://img.shields.io/badge/OpenRocket-Simulation-black?style=flat-square)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MS Office](https://img.shields.io/badge/MS%20Office-Word%20%7C%20Excel%20%7C%20PPT-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-
-**⚙️ Fab & Characterization Equipment**
-`SET FC150 Bonder` • `Samco RIE 800iPB (DRIE)` • `EVG 501 Hot Embossing` • `MSLD Helium Leak Detector` • `4-Probe Station` • `SEM`
-
-**🔬 Domains**
-`MEMS` • `Wafer Bonding` • `TSVs` • `FEA / CFD` • `Multiphysics Simulation` • `Thermal Management` • `Photovoltaics` • `Aerospace Structures` • `Additive Manufacturing (SLS / FDM)`
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logoColor=black)
+![CATIA](https://img.shields.io/badge/CATIA%20v5-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OpenRocket](https://img.shields.io/badge/OpenRocket-FF4500?style=for-the-badge&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 🎖️ Certifications (Jedi Training Completed)
+## 📊 GitHub Stats
 
-- 🔹 Steam and Gas Power Plant, *NPTEL (2023)*
-- 🔹 Fundamentals of Theoretical and Experimental Aerodynamics, *NPTEL (2023)*
-- 🔹 Aircraft Propulsion, *NPTEL (2023)*
-- 🔹 General Electric Explore Engineering Virtual Experience Program *(2023)*
+<!-- Replace YOUR_USERNAME with your GitHub username -->
+<div align="center">
 
----
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🤝 Soft Skills (The Party Roster)
-
-| Class | Trait |
-|---|---|
-| 🛡️ **Leadership** | Led a CubeSat subsystem team (Gandalf energy) |
-| 🎤 **Public Speaking** | Presented internationally in Paris |
-| 👥 **Teamwork** | Fellowship-level collaboration |
-| 💬 **Communication** | Translating physics into plain English (Sheldon would struggle) |
-| 🧩 **Critical Thinking** | Detective Peralta-level problem solving, minus the chaos |
+</div>
 
 ---
+
+## 📫 Contact
+
+| Channel | Link |
+|---------|------|
+| 💼 LinkedIn | [swagat-kumar-sarangi](https://linkedin.com/in/swagat-kumar-sarangi-1a5745148/) |
+| ✉️ Email | swagat.k31@gmail.com |
 
 <div align="center">
 
-### 📬 Let's Connect
-
-*"One does not simply walk into MEMS... but you can message me first."* 🧙‍♂️
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swagat%20Kumar%20Sarangi-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/swagat-kumar-sarangi-1a5745148/)
-[![Gmail](https://img.shields.io/badge/Gmail-swagat.k31@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swagat.k31@gmail.com)
-
-**May the Force (and the DRIE etch rate) be with you. 🌟**
-
-*Bazinga! Thanks for visiting.* 😄
+*Nine-Nine! 🚔 · May the Force be with you 🌌 · And may your bonds be hermetic* 🧪
 
 </div>
