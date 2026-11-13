@@ -142,7 +142,7 @@ One does not simply build a satellite alone. Here are my fellowships:
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=swiss-cheese31&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swiss-cheese31&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
